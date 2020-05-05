@@ -1,5 +1,9 @@
 # generate-barcode
 
+# Demo
+
+![Demo](https://github.com/kunj-sangani/BarcodeGeneratorSPFx/blob/master/Demo/1_Demo.png)
+
 This project uses [React](https://reactjs.org).
 
 > This is where you include your project's documentation.
