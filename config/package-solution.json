@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "generate-barcode-client-side-solution",
+    "id": "97f70e08-b3fc-4770-984a-2c261bd19b81",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/generate-barcode.sppkg"
+  }
+}

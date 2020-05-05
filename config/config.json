@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "sample-barcode-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/sampleBarcode/SampleBarcodeWebPart.js",
+          "manifest": "./src/webparts/sampleBarcode/SampleBarcodeWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SampleBarcodeWebPartStrings": "lib/webparts/sampleBarcode/loc/{locale}.js"
+  }
+}
